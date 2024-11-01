@@ -7,7 +7,7 @@ fun main (){
     println("---------------------------------------------------")
 
     // Membuat Objek 
-    var ryan = orang()
+    var ryan = Orang()
 
     // Memanggil Method
     ryan.melihatLemari()

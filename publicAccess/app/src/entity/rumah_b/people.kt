@@ -1,7 +1,7 @@
 package app.src.entity
 
 public class Orang{
-    var lemari = lemari()
+    var lemari = Lemari()
 
     // Method public
     public fun melihatLemari() {
